@@ -22,8 +22,6 @@
 
 ## 💻 Sobre o projeto
 
-VS Store API é um projeto desenvolvido para ao processo seletivo da PenseAPP.
-
 VS Store API - é o backend do aplicativo VS Store, onde está toda regra de negócia da aplicação. Nesta parte, fazemos toda conexão com banco de dados, utilizando um ORM (TypeORM), processamos informações mais sigilosas e disponbilizamos em formato de API Restful utilizando o Express para manuseio das rotas.
 
 Esta API também está hospedada no Heroku no endereço https://vs-store-api.herokuapp.com/.
