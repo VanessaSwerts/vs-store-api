@@ -26,7 +26,7 @@ VS Store API - é o backend do aplicativo VS Store, onde está toda regra de neg
 
 Esta API também está hospedada no Heroku no endereço https://vs-store-api.herokuapp.com/.
 
-Para testar a API, você pode utilzar o arquivo para o [Insomnia](https://insomnia.rest): [VS Store API Insomnia](https://github.com/VanessaSwerts/challenge-flutter-fullstack/blob/backend/VsStoreInsomnia.json)
+Para testar a API, você pode utilzar o arquivo para o [Insomnia](https://insomnia.rest): [VS Store API Insomnia](https://github.com/VanessaSwerts/vs-store-api/blob/master/VsStoreInsomnia.json)
 
 ---
 
@@ -43,13 +43,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
    ```bash
     # Clone este repositório
-    $ git clone https://github.com/VanessaSwerts/challenge-flutter-fullstack.git
+    $ git clone https://github.com/VanessaSwerts/vs-store-api.git
 
     # Acesse a pasta do projeto no seu terminal/cmd
-    $ cd challenge-flutter-fullstack
-    
-    # Altere para a branch do backend
-    $ git checkout backend
+    $ cd vs-store-api    
 
     # Instale as dependências
     $ yarn install
@@ -179,7 +176,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   -   **[ts-node-dev](https://github.com/wclr/ts-node-dev)**
   -   **[typescript](https://www.typescriptlang.org)** 
   
-Veja o arquivo  [package.json](https://github.com/VanessaSwerts/challenge-flutter-fullstack/blob/backend/package.json)
+Veja o arquivo  [package.json](https://github.com/VanessaSwerts/vs-store-api/blob/master/package.json)
 
 ---
 
