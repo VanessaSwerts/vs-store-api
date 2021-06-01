@@ -1,7 +1,7 @@
 
 <p align="center">  
-  <a href="https://github.com/VanessaSwerts/challenge-flutter-fullstack/commits/backend">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/challenge-flutter-fullstack/backend">
+  <a href="https://github.com/VanessaSwerts/vs-store-api">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/vs-store-api">
   </a>    
 </p>
 
@@ -86,7 +86,7 @@ Esta API está disponível em https://vs-store-api.herokuapp.com/, rodando com u
 Atualizado 31/05/2021
 
 ```
-backend
+vs-store-api
 ├─ .gitignore
 ├─ LICENSE
 ├─ ormconfig.js
